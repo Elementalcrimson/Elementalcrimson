@@ -61,6 +61,25 @@ I am a B.E. student specializing in Artificial Intelligence and Machine Learning
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+---
+
+## 📊 GitHub Stats:
+
+<!-- Main Stats Card -->
+![](https://github-readme-stats.vercel.app/api?username=Elementalcrimson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+<!-- Contribution Streak Card -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=Elementalcrimson&theme=dracula)
+
+<!-- Top Languages Card -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elementalcrimson&theme=dracula&layout=normal&card_width=495)
+
+---
+
+## ✍️ Random Dev Quote
+
+![](https://github-readme-quotes.herokuapp.com/quote?theme=dracula)
+
 ### 🎨 Creative Suites
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
